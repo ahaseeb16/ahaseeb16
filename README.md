@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">Front-End Developer And Flutter App Developer</h3>
 
+<img align="right" alt+"coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ZQ4zwXWw_6Fje5WSQlPTr&ust=1692905316829000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCu2PLB84ADFQAAAAAdAAAAABAI"
+
 - 🔭 I’m currently working on **UI Design**
 
 - 🌱 I’m currently learning **Dart And Flutter**
