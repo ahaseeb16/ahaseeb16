@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Haseeb</h1>
 <h3 align="center">Front-End Developer And Flutter App Developer</h3>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Web And Mobile Apps**
 
-- 💬 Ask me about **Js,Css,Html**
+- 💬 Ask me about **Dart,Flutter,Css,Html**
 
 - 📫 How to reach me **abdulhaseeb16062001@gmail.com**
 
