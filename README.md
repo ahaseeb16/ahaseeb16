@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👯 I’m looking to collaborate on **Web And Mobile Apps**
 
